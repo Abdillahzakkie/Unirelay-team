@@ -1,0 +1,22 @@
+{
+  "name": "StakingToken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/truffle-upgrades": "^1.2.0",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "truffle": "^5.1.49",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.1.1"
+  }
+}
